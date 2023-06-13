@@ -1,0 +1,11 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  height: calc(100vh - 3.75rem);
+}
+
+.avatar {
+  clip-path: circle(50%);
+}

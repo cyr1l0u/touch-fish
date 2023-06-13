@@ -1,0 +1,157 @@
+.container {
+    width: 800px;
+    margin: 0 auto 30px;
+    padding-top: 40px;
+    font-size: 14px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.target {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.block-title {
+    width: 90%;
+    margin: 15px auto 0;
+    padding: 10px 0;
+    border-top: 1px solid #999;
+    font-size: 20px;
+    font-weight: 700;
+    color: #aaa;
+}
+
+.table {
+    display: table;
+    width: 80%;
+    margin: 0 auto;
+    border: none;
+    text-align: left;
+}
+
+.table th {
+    padding: 10px 5px;
+    width: 90px;
+    height: 22px;
+    font-weight: 500;
+    color: #333;
+    border: none;
+}
+
+.table td,
+.table tr {
+    padding: 10px 5px;
+    font-weight: 700;
+    border: none;
+}
+
+.table-h {
+    display: table;
+    width: 80%;
+    margin: 0 auto;
+    border: none;
+    text-align: left;
+}
+
+.table-h th {
+    width: 70px;
+    height: 22px;
+    padding: 10px 5px;
+    font-weight: 700;
+    color: #333;
+    border: none;
+}
+
+.table-h tr,
+.table-h td {
+    padding: 10px 5px;
+    height: 25px;
+    border: none;
+}
+
+.group-name {
+    display: inline-block;
+    font-weight: 700;
+    width: 100px;
+}
+
+.group-item {
+    margin-right: 10px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    background-color: #ccc;
+}
+
+.skills {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.skills li {
+    height: 36px;
+}
+
+.project {
+    line-height: 25px;
+    width: 90%;
+    margin: 10px auto 20px;
+}
+
+.project-time {
+    width: 150px;
+}
+
+.project-time span {
+    background-color: #ccc;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.project-name {
+    width: 250px;
+}
+
+.project-detail {
+    display: flex;
+    font-weight: 700;
+    margin-bottom: 3px;
+    justify-content: space-between;
+}
+.project-desc {
+    display: flex;
+}
+.project-duty {
+    display: flex;
+}
+
+.duty-items {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.project-title {
+    display: inline-block;
+    width: 60px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+.project-data {
+    flex: 1;
+}
+
+.self-appraisal {
+    width: 90%;
+    margin: 0 auto;
+    line-height: 25px;
+}
+
+.social-account {
+    font-weight: 700;
+    text-decoration: none;
+}
