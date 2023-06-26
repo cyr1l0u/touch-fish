@@ -100,3 +100,15 @@ excalidraw 简易流程绘制工具
 免费的SEO和代码工具集。
 
 链接：https://freecodetools.org/
+
+####  JSONCrack
+
+JSONCrack 是一个在线工具，用于将JSON转换为可读的格式
+
+链接：https://jsoncrack.com/
+
+####  Squoosh
+
+Squoosh 是一个基于 WebAssembly 的图像优化工具，可以在浏览器中运行。
+
+链接：https://squoosh.app/
