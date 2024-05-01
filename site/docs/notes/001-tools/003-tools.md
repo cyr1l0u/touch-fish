@@ -23,6 +23,12 @@ tags: [tools]
 
 链接：https://www.regexpal.com/
 
+####  Pyrexp
+
+在线测试并可视化您的Python正则表达式。
+
+链接：https://pythonium.net/regex
+
 ####  Caniuse.com
 
 提供最新的浏览器支持tables，以支持桌面和移动网络浏览器上的前端网络技术。
